@@ -358,3 +358,6 @@ C:\Users\User\Iskola\BME\Szemeszter6\Kliens\Hf\Project\movie-world\MovieWorld\ob
 C:\Users\User\Iskola\BME\Szemeszter6\Kliens\Hf\Project\movie-world\MovieWorld\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\User\Iskola\BME\Szemeszter6\Kliens\Hf\Project\movie-world\MovieWorld\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\User\Iskola\BME\Szemeszter6\Kliens\Hf\Project\movie-world\MovieWorld\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\User\Iskola\BME\Szemeszter6\Kliens\Hf\Project\movie-world\MovieWorld\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\Users\User\Iskola\BME\Szemeszter6\Kliens\Hf\Project\movie-world\MovieWorld\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\cinema.scale-100.png
+C:\Users\User\Iskola\BME\Szemeszter6\Kliens\Hf\Project\movie-world\MovieWorld\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\cinema.scale-100.webp
